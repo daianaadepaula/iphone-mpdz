@@ -3,9 +3,37 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* header */
+.caixa-roxa {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #d3d3d3;
+}
 
+.logo {
+  height: 20px;
+}
+
+ul {
+  display: flex;
+  gap: 100px;
+  list-style: none;
+  margin-left: 100px;
+}
+
+li {
+  font-size: 12px;
+  font-weight: 400;
+  color: #373737;
+}
+
+/* main */
 .caixa-azul {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 50px;
 }
 
@@ -81,6 +109,18 @@
   background-color: #ede7f1;
 }
 
-img {
+.circulo {
+  width: 100%;
+  height: 100%;
+  background: #81a5c4;
+  position: absolute;
+  top: 0;
+  left: 0;
+  clip-path: circle(600px at right 1000px);
+}
+
+.iphone {
   width: 450px;
+  margin-top: 100px;
+  z-index: 99;
 }
