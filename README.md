@@ -51,6 +51,6 @@ We thank the following people who contributed to this project:
 ## License
 This project is **free to use** and does not contains any license.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/daianaadepaula/dev-previsao/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/daianaadepaula/iphone-mpdz/blob/master/LICENSE) 
 
 <br />
